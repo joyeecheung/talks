@@ -1,5 +1,13 @@
 ## Talks by Joyee Cheung (Qiuyi Zhang)
 
+### 2013
+
+* [Readings: Aggregating and Visualizing Microblogs for Event Exploration](sysu/readings_event_exploration.pdf) @ AI Lab, Sun Yat-sen University
+
+### 2014
+
+* [Data Clustering: A Survey](sysu/clustering_survey.pdf) @ Technical Communications Course, Sun Yat-sen University
+
 ### 2016
 
 * [Node.js & V8 (Chinese)](sysu/node.js&v8_m$.pdf) @ MSTC, Sun Yat-sen University
