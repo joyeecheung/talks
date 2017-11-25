@@ -18,3 +18,5 @@
 ### 2017
 
 * [Node.js at Alibaba](node_interactive_2017/nodejs_at_alibaba.pdf) @ Node Interactive 2017 North America
+* [Node.js at Alibaba](node_fest_2017/nodejs_at_alibaba_tokyo.pdf) @ Node Fest 2017, Tokyo, Japan
+
