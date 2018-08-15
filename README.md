@@ -12,11 +12,15 @@
 
 * [Node.js & V8 (Chinese)](sysu/node.js&v8_m$.pdf) @ MSTC, Sun Yat-sen University
 * [A Node.js Talk (Chinese)](sysu/node.js_matrix.pdf) @ Matrix Lab, Sun Yat-sen University
-* [Are Your V8 Garbage Collection Logs Speaking to You?](node_live_2016_beijing/are_your_v8_garbage_collection_logs_speaking_to_you.pdf) @ Node Live 2016 Beijing
-* [Are Your V8 Garbage Collection Logs Speaking to You?](node_interactive_2016/are_your_v8_garbage_collection_logs_speaking_to_you_updated.pdf) @ Node Interactive 2016 North America
+* [Are Your V8 Garbage Collection Logs Speaking to You?](node_live_2016_beijing/are_your_v8_garbage_collection_logs_speaking_to_you.pdf) @ Node Live, May 2016, Beijing, China
+* [Are Your V8 Garbage Collection Logs Speaking to You?](node_interactive_2016/are_your_v8_garbage_collection_logs_speaking_to_you_updated.pdf) @ Node.js Interactive North America, Dec. 2016, Austin, U.S.
 
 ### 2017
 
-* [Node.js at Alibaba](node_interactive_2017/nodejs_at_alibaba.pdf) @ Node Interactive 2017 North America
+* [Node.js at Alibaba](node_interactive_2017/nodejs_at_alibaba.pdf) @ Node.js Interactive North America, Oct. 2017, Vancouver, Canada
 * [Node.js at Alibaba](node_fest_2017/nodejs_at_alibaba_tokyo.pdf) @ Node Fest 2017, Tokyo, Japan
 
+### 2018
+
+* [llnode Status Update](node_diag_summit_201802/llnode_status_update.pdf) @ Node.js Diagnostics Summit, Feb. 2018, Ottawa, Canada
+* [Status and Scope of Node.js Core collaborators](node_collab_summit_201805/core_collaboartors_status_and_scope.pdf) @ Node.js Collaboration Summit, May 2018, Berlin, Germany
