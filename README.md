@@ -24,3 +24,4 @@
 
 * [llnode Status Update](node_diag_summit_201802/llnode_status_update.pdf) @ Node.js Diagnostics Summit, Feb. 2018, Ottawa, Canada
 * [Status and Scope of Node.js Core collaborators](node_collab_summit_201805/core_collaboartors_status_and_scope.pdf) @ Node.js Collaboration Summit, May 2018, Berlin, Germany
+* [Bringing JavaScript Back to Life](node_js_interactive_2018/bringing_javascript_back_to_life.pdf) @ Node+JS Interactive, Oct. 2018, Vancouver, Canada
