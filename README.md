@@ -26,3 +26,7 @@
 * [Status and Scope of Node.js Core collaborators](node_collab_summit_201805/core_collaboartors_status_and_scope.pdf) @ Node.js Collaboration Summit, May 2018, Berlin, Germany
 * [Bringing JavaScript Back to Life](node_js_interactive_2018/bringing_javascript_back_to_life.pdf) @ Node+JS Interactive, Oct. 2018, Vancouver, Canada
 * [Automation of Node.js Core Workflows](node_js_interactive_2018/automation_of_nodejs_workflows.pdf) @ Node.js Collaboration Summit, Oct. 2018, Vancouver, Canada
+
+### 2019
+
+* [Bringing JavaScript Back to Life](d2_2019/bringing_javascript_back_to_life.pdf) @ D2, Jan. 2019, Hangzhou, China
