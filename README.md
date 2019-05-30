@@ -31,4 +31,4 @@
 
 * [Bringing JavaScript Back to Life](d2_2019/bringing_javascript_back_to_life.pdf) @ D2, Jan. 2019, Hangzhou, China
 * [Contributing to Node.js Core (Chinese)](code_and_learn_2019_beijing/contributing-to-node-core.pdf) @ Node.js Code & Learn, Apr. 2019, Beijing, China
-* [Bootstrap of Node.js Core](openjs_collab_summit_201905/bootstrap-of-node-core.pdf) @ OpenJS Collaboratiom Summit, May 2019, Berlin, Germany
+* [Bootstrap of Node.js Core](openjs_collab_summit_201905/bootstrap-of-node-core.pdf) @ OpenJS Collaboration Summit, May 2019, Berlin, Germany
