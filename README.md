@@ -34,3 +34,4 @@
 * [Bootstrap of Node.js Core](openjs_collab_summit_201905/bootstrap-of-node-core.pdf) @ OpenJS Collaboration Summit, May 2019, Berlin, Germany
 * [Web APIs in Node.js Core](jsconfeu_201906/web-api-in-node-core.pdf) @ JSConf EU, June 2019, Berlin, Germany
 * [Bootstrap of Node.js and V8 snapshot integration (Chinese)](node_subway_sep_2019/bootstrap-of-node-core-subway.pdf) @ Node Subway, Sep. 2019, Hangzhou, China
+* [Implementing one feature set in two JavaScript engines](https://docs.google.com/presentation/d/1neFK53C05CtC0ERWa42bujrmPlYSxipIZww5AhUNKR8/edit?usp=sharing) with Caio Lima @ Web Engines Hackfest, Oct. 2019, A Coruña, Spain
