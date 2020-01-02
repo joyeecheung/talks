@@ -35,4 +35,5 @@
 * [Web APIs in Node.js Core](jsconfeu_201906/web-api-in-node-core.pdf) @ JSConf EU, June 2019, Berlin, Germany
 * [Bootstrap of Node.js and V8 snapshot integration (Chinese)](node_subway_sep_2019/bootstrap-of-node-core-subway.pdf) @ Node Subway, Sep. 2019, Hangzhou, China
 * [Implementing one feature set in two JavaScript engines](https://docs.google.com/presentation/d/1neFK53C05CtC0ERWa42bujrmPlYSxipIZww5AhUNKR8/edit?usp=sharing) with Caio Lima @ Web Engines Hackfest, Oct. 2019, A Coruña, Spain
+* [Node.js Code+Learn](https://docs.google.com/presentation/d/1NluODLOelMFyui10jSLY8T4M0F444LaG7Ir5u_tfOGM/edit#slide=id.p1) @ China Open Source Conference, Nov. 2019, Shanghai, China
 * [How Node.js Bootstraps Itself: 2019 Edition](node_js_interactive_2019/how-node-js-bootstraps-itself-2019-edition.pdf) @ Node+JS Interactive, Dec. 2019, Montreal, Canada
