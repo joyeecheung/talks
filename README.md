@@ -41,3 +41,7 @@
 ## 2020
 
 * [Node.js Startup Performance](nodeconf_remote_202011/node-startup-performance.pdf) @ NodeConf Remote
+
+## 2023
+
+* [Startup snapshots in Node.js](node_congress_2023/startup-snapshot-in-node-js.pdf) @ Node Congress, Apr. 2023, Berlin, Germany
