@@ -45,3 +45,4 @@
 ## 2023
 
 * [Startup snapshots in Node.js](node_congress_2023/startup-snapshot-in-node-js.pdf) @ Node Congress, Apr. 2023, Berlin, Germany
+* [JavaScript and C++ in Node.js core - How do they talk to each other?](nodeconfeu_2023/javaScript-and-cpp-in-nodejs-core.pdf) @ NodeConf EU, Nov. 2023, Kilkenny, Ireland
