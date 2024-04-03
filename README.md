@@ -46,3 +46,8 @@
 
 * [Startup snapshots in Node.js](node_congress_2023/startup-snapshot-in-node-js.pdf) @ Node Congress, Apr. 2023, Berlin, Germany
 * [JavaScript and C++ in Node.js core - How do they talk to each other?](nodeconfeu_2023/javaScript-and-cpp-in-nodejs-core.pdf) @ NodeConf EU, Nov. 2023, Kilkenny, Ireland
+
+## 2024
+
+* [Improving native memory management & diagnostics in Node.js](./node_collab_summit_202404/improving-native-memory-management-diagnostics-in-nodejs.pdf) @ Node.js collaboration summit, April 2024, London
+
