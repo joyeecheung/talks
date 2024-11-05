@@ -51,5 +51,5 @@
 
 * [Improving native memory management & diagnostics in Node.js](./node_collab_summit_202404/improving-native-memory-management-diagnostics-in-nodejs.pdf) @ Node.js collaboration summit, April 2024, London
 * [New & upcoming features in the Node.js module loaders](./viteconf_2024/new-and-upcomng-features-in-the-nodejs-module-loaders.pdf) @ ViteConf, Oct 2024, Remote
-
+* [require(esm) in Node.js](./nodeconfeu_2024/require-esm-in-node.pdf) @ NodeConf EU, Nov 2024, Waterford
 
