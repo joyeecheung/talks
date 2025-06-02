@@ -53,3 +53,5 @@
 * [New & upcoming features in the Node.js module loaders](./viteconf_2024/new-and-upcomng-features-in-the-nodejs-module-loaders.pdf) @ ViteConf, Oct 2024, Remote
 * [require(esm) in Node.js](./nodeconfeu_2024/require-esm-in-node.pdf) @ NodeConf EU, Nov 2024, Waterford
 
+## 2025
+* [Bridging CommonJS and ESM in Node.js](./webhackfest_2025/bridging-commonjs-and-esm-in-nodejs.pdf) @ Web Engine Hackfest, June 2025, A Coruña, Spain
