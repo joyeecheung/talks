@@ -55,3 +55,4 @@
 
 ## 2025
 * [Bridging CommonJS and ESM in Node.js](./webhackfest_2025/bridging-commonjs-and-esm-in-nodejs.pdf) @ Web Engine Hackfest, June 2025, A Coruña, Spain
+* [Shipping Node.js packages in 2025](./nordic_js_2025/shipping-nodejs-packages-in-2025.pdf) @ Nordic.js, Oct 2025, Stockholm, Sweden
