@@ -54,5 +54,7 @@
 * [require(esm) in Node.js](./nodeconfeu_2024/require-esm-in-node.pdf) @ NodeConf EU, Nov 2024, Waterford
 
 ## 2025
+
 * [Bridging CommonJS and ESM in Node.js](./webhackfest_2025/bridging-commonjs-and-esm-in-nodejs.pdf) @ Web Engine Hackfest, June 2025, A Coruña, Spain
 * [Shipping Node.js packages in 2025](./nordic_js_2025/shipping-nodejs-packages-in-2025.pdf) @ Nordic.js, Oct 2025, Stockholm, Sweden
+* [Evolving the Node.js module loader](./jsconfjp_2025/evolving-the-nodejs-module-loader.pdf) @ JSConf JP, Nov 2025, Tokyo, Japan
