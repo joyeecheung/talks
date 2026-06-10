@@ -62,3 +62,4 @@
 ## 2026
 
 * [Stablization of Node.js module customizations](./node_collab_summit_202604/stablization_of_module_customizations.pdf) @ Node.js collaboration summit, April 2026, London
+* [Life of an ESM in Node.js](./jsnation_2026/life-of-an-esm-in-nodejs.pdf) @ JSNation, June 2026, Amsterdam, Netherlands
